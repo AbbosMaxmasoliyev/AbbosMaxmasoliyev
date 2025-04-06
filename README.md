@@ -10,7 +10,8 @@ Frontend va Backend qismlarda ishlash imkoniyatim bilan men veb-dasturlashning b
 
 - **Frontend:**  
   - HTML5, CSS3, SASS, Tailwind CSS  
-  - JavaScript (ES6+), TypeScript  
+  - JavaScript (ES6+), TypeScript
+  - Angulan, PrimeNg, Angular Material
   - React, Redux, Next.js  
 - **Backend:**  
   - Node.js, Express.js  
